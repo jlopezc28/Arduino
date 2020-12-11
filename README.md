@@ -13,7 +13,8 @@
 In this assignment you add to your blinking LED, here you are using analog write, delays, and fadeamounts to determine the amount of the fading
 ### Description & Code
 Description goes here
-
+You are going to keep the same wiring as before excpet on the arduino which from the blinking LED ahouls be on pin 13 just move it over to pin 9 and it should fade
+(this isn't my code, it belongs to arduino editor)
 Here's how you make code look like code:
 
 ```C++
@@ -36,6 +37,7 @@ Talk about how the fade works, here....
 
 ### Reflection
  It was a fairly easy task since the code is in https://create.arduino.cc/editor/jlopezc28ccs/078a879a-32c7-46b6-9ce5-c9694d29bf63 but remember if you are using the same wirirng and using the arduino websites code the pinmode on your arduino should be switch from 13 to 9 inorder for the code to work
+ (when you visit the arduino website click on examples, which is on the right. then 0.1Basics and scroll down to fade and the code should be there)
  _________
  
  ## HelloFunctions
